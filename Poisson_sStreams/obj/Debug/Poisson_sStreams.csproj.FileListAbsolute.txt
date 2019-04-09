@@ -1,0 +1,6 @@
+D:\Users\Кирилл\Documents\Visual Studio 2013\Projects\TheoryOfMassService\Poisson_sStreams\bin\Debug\Poisson_sStreams.exe.config
+D:\Users\Кирилл\Documents\Visual Studio 2013\Projects\TheoryOfMassService\Poisson_sStreams\bin\Debug\Poisson_sStreams.exe
+D:\Users\Кирилл\Documents\Visual Studio 2013\Projects\TheoryOfMassService\Poisson_sStreams\bin\Debug\Poisson_sStreams.pdb
+D:\Users\Кирилл\Documents\Visual Studio 2013\Projects\TheoryOfMassService\Poisson_sStreams\obj\Debug\Poisson_sStreams.csprojResolveAssemblyReference.cache
+D:\Users\Кирилл\Documents\Visual Studio 2013\Projects\TheoryOfMassService\Poisson_sStreams\obj\Debug\Poisson_sStreams.exe
+D:\Users\Кирилл\Documents\Visual Studio 2013\Projects\TheoryOfMassService\Poisson_sStreams\obj\Debug\Poisson_sStreams.pdb

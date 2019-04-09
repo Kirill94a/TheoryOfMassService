@@ -1,0 +1,6 @@
+d:\users\кирилл\documents\visual studio 2013\Projects\TheoryOfMassService\TheoryOfMassService\bin\Debug\TheoryOfMassService.exe.config
+d:\users\кирилл\documents\visual studio 2013\Projects\TheoryOfMassService\TheoryOfMassService\obj\Debug\TheoryOfMassService.csprojResolveAssemblyReference.cache
+d:\users\кирилл\documents\visual studio 2013\Projects\TheoryOfMassService\TheoryOfMassService\bin\Debug\TheoryOfMassService.exe
+d:\users\кирилл\documents\visual studio 2013\Projects\TheoryOfMassService\TheoryOfMassService\bin\Debug\TheoryOfMassService.pdb
+d:\users\кирилл\documents\visual studio 2013\Projects\TheoryOfMassService\TheoryOfMassService\obj\Debug\TheoryOfMassService.exe
+d:\users\кирилл\documents\visual studio 2013\Projects\TheoryOfMassService\TheoryOfMassService\obj\Debug\TheoryOfMassService.pdb

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TheoryOfMassService.RunSimulation" Collapsed="true">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Simulation\RunSimulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.Channel" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graph\Channel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.Graph" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAAABACACAAIAACCAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Graph\Graph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.Gun" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAALAAAAAAA=</HashCode>
+      <FileName>Graph\Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.Request" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAAAAAAAAAAAAAACgAQAAAIAABgEEAABAAAAAAA=</HashCode>
+      <FileName>Graph\Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.SeveralChannels" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAABAAAAACAAAgAAQAAAAAAAAAAAAAEAECAA=</HashCode>
+      <FileName>Graph\SeveralChannels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.Vertex" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAACQAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Graph\Vertex.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TheoryOfMassService.Waiting" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Graph\Waiting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.WithinSystem" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAgAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Graph\WithinSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.CalculationParameters" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAIAAACAAAAAACAEAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Parameters\CalculationParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.Parameters" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="TheoryOfMassService.Parameters.AverageNumOccupiedChannels" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parameters\Parameters.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TheoryOfMassService.Parameters.ChanceService" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parameters\Parameters.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TheoryOfMassService.Parameters.AverageLengthWaiting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parameters\Parameters.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TheoryOfMassService.Parameters.CountOccupiedChannels" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parameters\Parameters.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TheoryOfMassService.Parameters.LengthWaiting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parameters\Parameters.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TheoryOfMassService.Parameters.CountServices" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parameters\Parameters.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="TheoryOfMassService.Parameters.CountRequests" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parameters\Parameters.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAIAAQAgAAEAAAAAAAAAAAAgAAAAAAAAAAAACFAAA=</HashCode>
+      <FileName>Parameters\Parameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.Program" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAABAAEAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.NewGraph" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Simulation\NewGraph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheoryOfMassService.Simulation" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Simulation\Simulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
